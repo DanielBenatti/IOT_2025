@@ -1,0 +1,27 @@
+[
+    {
+        "id": "585a721ef0b53719",
+        "type": "inject",
+        "z": "bc851a032253ef47",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "daniel",
+        "payloadType": "str",
+        "x": 270,
+        "y": 440,
+        "wires": [
+            [
+                "a5bd6fb967c7ab0b"
+            ]
+        ]
+    }
+]
